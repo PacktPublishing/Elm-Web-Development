@@ -29,6 +29,3 @@ of any changes, updates, or errata.
 * [Amazon Web Services Bootcamp](https://www.packtpub.com/virtualization-and-cloud/aws-bootcamp?utm_source=github&utm_medium=repository&utm_campaign=9781788294454)
 
 * [Tkinter GUI Application Development Cookbook](https://www.packtpub.com/web-development/tkinter-gui-application-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788622301)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
